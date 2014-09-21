@@ -1,0 +1,1051 @@
+start
+3
+bin\Debug\suffix_trees.exe
+test_bible
+test na argc 
+loading...
+---a-->$:508, 720, 909, 923, 
+   |---bijah-->$:501, 
+   |---c-->
+       |---e-->$:213, 225, 
+           |---s-->$:706, 
+       |---k-->$:804, 
+           |---ness-->$:812, 
+   |---el-->$:404, 517, 627, 
+   |---h-->$:407, 501, 
+   |---i-->
+       |---d-->$:302, 
+       |---leth-->$:614, 
+       |---n-->$:515, 
+           |---s-->$:708, 
+   |---ke-->$:630, 717, 
+   |---l-->
+       |---l-->$:827, 919, 929, 943, 
+           |---eys-->$:714, 
+       |---so-->$:936, 
+   |---n-->
+       |---ce-->$:831, 
+       |---d-->$:107, 200, 206, 208, 217, 300, 307, 400, 408, 414, 500, 502, 520, 603, 607, 611, 707, 724, 727, 926, 937, 
+       |---y-->$:822, 
+   |---r-->$:621, 
+       |---d-->$:818, 
+       |---e-->$:941, 
+       |---kness-->$:209, 
+       |---th-->$:109, 202, 935, 
+   |---s-->$:203, 210, 309, 808, 908, 
+       |---s-->$:920, 
+   |---t-->$:509, 821, 826, 924, 933, 940, 
+       |---e-->
+           |---d-->$:104, 
+           |---r-->$:606, 723, 730, 
+               |---s-->$:228, 
+   |---ughter-->$:510, 
+   |---ven-->$:106, 
+       |---s-->$:918, 
+   |---way-->$:921, 
+   |---y-->$:902, 921, 
+---b-->
+   |---e-->$:305, 944, 
+       |---fore-->$:406, 
+       |---ginning-->$:102, 
+   |---ijah-->$:501, 
+   |---u-->
+       |---rned-->$:945, 
+       |---t-->$:813, 825, 900, 
+---c-->
+   |---e-->$:213, 225, 831, 
+       |---rning-->$:805, 
+       |---s-->$:706, 
+   |---h-->$:916, 
+       |---ildren-->$:402, 
+       |---osen-->$:521, 
+   |---k-->$:804, 
+       |---ness-->$:812, 
+   |---o-->
+       |---me-->$:829, 907, 
+       |---ncerning-->$:805, 
+       |---unt-->$:811, 
+   |---reated-->$:104, 
+---d-->$:103, 104, 107, 200, 206, 207, 208, 217, 221, 222, 300, 301, 302, 307, 400, 405, 408, 409, 410, 414, 500, 502, 519, 520, 603, 607, 611, 619, 625, 707, 724, 727, 801, 818, 823, 828, 905, 926, 937, 945, 
+   |---a-->
+       |---h-->$:407, 
+       |---rkness-->$:209, 
+       |---y-->$:902, 
+   |---e-->
+       |---ep-->$:216, 
+       |---livered-->$:410, 
+       |---rness-->$:719, 
+   |---own-->$:514, 
+   |---r-->
+       |---e-->
+           |---d-->$:519, 
+           |---n-->$:402, 
+       |---y-->$:726, 
+   |---st-->$:711, 
+   |---y-->$:604, 
+---e-->$:101, 105, 108, 201, 212, 213, 215, 218, 224, 225, 227, 304, 305, 308, 401, 406, 504, 512, 518, 601, 608, 610, 613, 618, 624, 630, 710, 713, 717, 718, 725, 800, 807, 809, 829, 831, 901, 904, 907, 912, 915, 917, 925, 927, 934, 938, 941, 944, 
+   |---a-->
+       |---r-->$:621, 
+           |---th-->$:109, 202, 935, 
+       |---t-->$:509, 924, 933, 
+           |---ed-->$:104, 
+       |---ven-->$:106, 
+           |---s-->$:918, 
+   |---d-->$:104, 222, 405, 410, 519, 945, 
+       |---y-->$:604, 
+   |---e-->
+       |---dy-->$:604, 
+       |---k-->$:605, 
+       |---p-->$:216, 
+   |---f-->$:910, 
+       |---ore-->$:406, 
+   |---ginning-->$:102, 
+   |---i-->
+       |---n-->$:942, 
+       |---r-->$:413, 612, 
+   |---k-->$:605, 
+   |---l-->$:404, 517, 627, 
+       |---ements-->$:928, 
+       |---ivered-->$:410, 
+       |---l-->$:513, 
+       |---t-->$:930, 
+   |---m-->$:411, 506, 622, 631, 
+       |---ents-->$:928, 
+   |---n-->$:106, 402, 521, 522, 600, 702, 810, 
+       |---s-->$:918, 
+       |---t-->$:932, 
+           |---ance-->$:831, 
+           |---s-->$:928, 
+   |---ople-->$:504, 
+   |---p-->$:216, 
+       |---entance-->$:831, 
+   |---r-->$:510, 606, 723, 730, 
+       |---e-->$:304, 308, 512, 608, 
+           |---d-->$:410, 
+           |---in-->$:942, 
+       |---i-->
+           |---ng-->$:815, 
+           |---sh-->$:824, 
+       |---n-->
+           |---ess-->$:719, 
+           |---ing-->$:805, 
+       |---s-->$:228, 703, 
+       |---vent-->$:932, 
+   |---s-->$:706, 
+       |---s-->$:209, 719, 812, 
+   |---t-->$:303, 
+       |---h-->$:614, 
+   |---w-->$:505, 
+   |---ys-->$:714, 
+---f-->$:214, 220, 226, 403, 516, 626, 712, 722, 729, 903, 910, 
+   |---a-->
+       |---ce-->$:213, 225, 
+       |---ileth-->$:614, 
+   |---e-->
+       |---ll-->$:513, 
+       |---r-->
+           |---ing-->$:815, 
+           |---vent-->$:932, 
+   |---fering-->$:815, 
+   |---ive-->$:518, 
+   |---led-->$:405, 
+   |---o-->
+       |---r-->$:615, 
+           |---e-->$:406, 
+           |---m-->$:205, 
+           |---sake-->$:630, 
+       |---untains-->$:708, 
+---g-->$:102, 805, 815, 820, 
+   |---h-->$:705, 
+       |---t-->$:306, 310, 913, 
+           |---er-->$:510, 
+   |---inning-->$:102, 
+   |---od-->$:103, 221, 301, 409, 625, 
+   |---reat-->$:509, 924, 
+   |---s-->$:728, 
+       |---uffering-->$:815, 
+   |---ue-->$:613, 
+---h-->$:109, 202, 407, 501, 507, 614, 705, 824, 916, 922, 931, 935, 
+   |---a-->
+       |---ll-->$:919, 929, 943, 
+       |---nd-->$:414, 
+       |---t-->$:821, 826, 940, 
+   |---e-->$:101, 105, 108, 201, 212, 215, 218, 224, 227, 401, 601, 618, 624, 710, 713, 718, 725, 800, 901, 904, 912, 915, 917, 927, 934, 938, 
+       |---a-->
+           |---r-->$:621, 
+           |---t-->$:933, 
+           |---ven-->$:106, 
+               |---s-->$:918, 
+       |---ir-->$:413, 612, 
+       |---m-->$:411, 506, 622, 631, 
+       |---n-->$:600, 
+       |---re-->$:304, 308, 512, 608, 
+           |---in-->$:942, 
+   |---i-->
+       |---ch-->$:916, 
+       |---ef-->$:910, 
+       |---gh-->$:705, 
+       |---ldren-->$:402, 
+       |---rst-->$:616, 
+       |---s-->$:503, 806, 
+   |---o-->
+       |---sen-->$:521, 
+       |---u-->
+           |---ld-->$:823, 828, 
+           |---sand-->$:520, 
+           |---t-->$:204, 
+   |---t-->$:306, 310, 913, 
+       |---er-->$:510, 
+   |---undred-->$:519, 
+---i-->$:617, 623, 700, 715, 
+   |---ch-->$:916, 
+   |---d-->$:207, 302, 
+       |---st-->$:711, 
+   |---ef-->$:910, 
+   |---gh-->$:705, 
+       |---t-->$:306, 310, 913, 
+   |---jah-->$:501, 
+   |---l-->
+       |---d-->
+           |---erness-->$:719, 
+           |---ren-->$:402, 
+       |---eth-->$:614, 
+       |---l-->$:620, 628, 701, 716, 906, 
+           |---ing-->$:820, 
+   |---n-->$:100, 515, 704, 709, 911, 914, 942, 
+       |---g-->$:102, 805, 815, 820, 
+           |---s-->$:728, 
+       |---ning-->$:102, 
+       |---s-->$:708, 
+       |---to-->$:412, 
+   |---r-->$:413, 612, 
+       |---it-->$:219, 
+       |---st-->$:616, 
+   |---s-->$:503, 609, 802, 806, 814, 
+       |---e-->$:807, 925, 
+       |---h-->$:824, 
+       |---rael-->$:404, 517, 627, 
+   |---t-->$:219, 
+       |---h-->$:507, 922, 931, 
+           |---out-->$:204, 
+   |---ve-->$:518, 
+       |---r-->
+           |---ed-->$:410, 
+           |---s-->$:703, 
+---j-->
+   |---ah-->$:501, 
+   |---udah-->$:407, 
+---k-->$:605, 804, 
+   |---e-->$:630, 717, 
+   |---ness-->$:209, 812, 
+   |---s-->$:939, 
+---l-->$:404, 513, 517, 620, 627, 628, 701, 716, 721, 827, 906, 919, 929, 943, 
+   |---a-->
+       |---c-->
+           |---es-->$:706, 
+           |---k-->$:804, 
+               |---ness-->$:812, 
+       |---in-->$:515, 
+       |---nd-->$:727, 
+       |---ughter-->$:510, 
+   |---d-->$:823, 828, 
+       |---erness-->$:719, 
+       |---ren-->$:402, 
+   |---e-->$:504, 
+       |---d-->$:405, 
+       |---ments-->$:928, 
+       |---t-->$:303, 
+           |---h-->$:614, 
+       |---w-->$:505, 
+       |---ys-->$:714, 
+   |---i-->
+       |---ght-->$:306, 310, 
+       |---ng-->$:820, 
+       |---vered-->$:410, 
+   |---l-->$:513, 620, 628, 701, 716, 827, 906, 919, 929, 943, 
+       |---eys-->$:714, 
+       |---ing-->$:820, 
+   |---o-->
+       |---ngsuffering-->$:815, 
+       |---rd-->$:619, 801, 905, 
+   |---so-->$:936, 
+   |---t-->$:930, 
+---m-->$:205, 411, 506, 622, 631, 
+   |---ake-->$:717, 
+   |---e-->$:809, 829, 907, 
+       |---lt-->$:930, 
+       |---n-->$:522, 810, 
+           |---ts-->$:928, 
+   |---i-->
+       |---dst-->$:711, 
+       |---se-->$:807, 
+   |---oved-->$:222, 
+---n-->$:100, 106, 211, 223, 402, 514, 515, 521, 522, 600, 702, 704, 709, 810, 911, 914, 942, 
+   |---ce-->$:831, 
+       |---rning-->$:805, 
+   |---d-->$:107, 200, 206, 208, 217, 300, 307, 400, 408, 414, 500, 502, 520, 603, 607, 611, 707, 724, 727, 926, 937, 
+       |---red-->$:519, 
+   |---e-->$:610, 
+       |---d-->$:945, 
+       |---edy-->$:604, 
+       |---ss-->$:209, 719, 812, 
+   |---g-->$:102, 805, 815, 820, 
+       |---s-->$:728, 
+           |---uffering-->$:815, 
+       |---ue-->$:613, 
+   |---i-->
+       |---ght-->$:913, 
+       |---ng-->$:102, 805, 
+   |---ning-->$:102, 
+   |---o-->
+       |---ise-->$:925, 
+       |---ne-->$:610, 
+       |---t-->$:629, 803, 819, 
+   |---s-->$:708, 918, 
+   |---t-->$:811, 932, 
+       |---a-->
+           |---ins-->$:708, 
+           |---nce-->$:831, 
+       |---o-->$:412, 
+       |---s-->$:928, 
+   |---y-->$:822, 
+---o-->$:412, 511, 816, 830, 936, 
+   |---d-->$:103, 221, 301, 409, 625, 
+   |---f-->$:214, 220, 226, 403, 516, 626, 712, 722, 729, 903, 
+   |---i-->
+       |---d-->$:207, 
+       |---se-->$:925, 
+   |---l-->$:721, 
+   |---m-->
+       |---e-->$:809, 829, 907, 
+       |---ise-->$:807, 
+   |---n-->$:211, 223, 
+       |---cerning-->$:805, 
+       |---e-->$:610, 
+       |---g-->
+           |---suffering-->$:815, 
+           |---ue-->$:613, 
+   |---o-->
+       |---l-->$:721, 
+       |---r-->$:602, 
+   |---p-->
+       |---en-->$:702, 
+       |---le-->$:504, 
+   |---r-->$:602, 615, 
+       |---d-->$:619, 801, 905, 
+       |---e-->$:406, 
+       |---ks-->$:939, 
+       |---m-->$:205, 
+       |---sake-->$:630, 
+   |---sen-->$:521, 
+   |---t-->$:629, 803, 819, 
+   |---u-->
+       |---ld-->$:823, 828, 
+       |---nt-->$:811, 
+           |---ains-->$:708, 
+       |---sand-->$:520, 
+       |---t-->$:204, 
+   |---ved-->$:222, 
+   |---wn-->$:514, 
+---p-->$:216, 946, 
+   |---ass-->$:920, 
+   |---e-->
+       |---n-->$:702, 
+           |---tance-->$:831, 
+       |---ople-->$:504, 
+       |---rish-->$:824, 
+   |---irit-->$:219, 
+   |---l-->
+       |---aces-->$:706, 
+       |---e-->$:504, 
+   |---o-->
+       |---n-->$:211, 223, 
+       |---o-->
+           |---l-->$:721, 
+           |---r-->$:602, 
+   |---r-->
+       |---ings-->$:728, 
+       |---omise-->$:807, 
+---r-->$:413, 510, 602, 606, 612, 615, 621, 723, 730, 
+   |---ael-->$:404, 517, 627, 
+   |---d-->$:619, 801, 818, 905, 
+   |---e-->$:304, 308, 406, 512, 608, 941, 
+       |---at-->$:509, 924, 
+           |---ed-->$:104, 
+       |---d-->$:410, 519, 
+       |---in-->$:942, 
+       |---n-->$:402, 
+       |---pentance-->$:831, 
+   |---i-->
+       |---ng-->$:815, 
+           |---s-->$:728, 
+       |---sh-->$:824, 
+       |---t-->$:219, 
+       |---vers-->$:703, 
+   |---k-->
+       |---ness-->$:209, 
+       |---s-->$:939, 
+   |---m-->$:205, 
+   |---n-->
+       |---e-->
+           |---d-->$:945, 
+           |---ss-->$:719, 
+       |---ing-->$:805, 
+   |---omise-->$:807, 
+   |---s-->$:228, 703, 
+       |---ake-->$:630, 
+       |---t-->$:616, 
+   |---th-->$:109, 202, 935, 
+   |---vent-->$:932, 
+   |---y-->$:726, 
+---s-->$:203, 209, 210, 228, 309, 503, 609, 703, 706, 708, 714, 719, 728, 802, 806, 808, 812, 814, 817, 908, 918, 920, 928, 939, 
+   |---a-->
+       |---id-->$:302, 
+       |---ke-->$:630, 
+       |---nd-->$:520, 
+   |---e-->$:807, 925, 
+       |---ek-->$:605, 
+       |---n-->$:521, 
+   |---h-->$:824, 
+       |---all-->$:919, 929, 943, 
+       |---ould-->$:823, 828, 
+   |---l-->
+       |---a-->
+           |---ck-->$:804, 
+               |---ness-->$:812, 
+           |---in-->$:515, 
+           |---ughter-->$:510, 
+       |---ew-->$:505, 
+   |---o-->$:511, 936, 
+       |---me-->$:809, 
+   |---p-->
+       |---irit-->$:219, 
+       |---rings-->$:728, 
+   |---rael-->$:404, 517, 627, 
+   |---s-->$:209, 719, 812, 920, 
+   |---t-->$:616, 711, 
+   |---uffering-->$:815, 
+---t-->$:204, 219, 303, 306, 310, 509, 616, 629, 711, 803, 811, 813, 819, 821, 825, 826, 900, 913, 924, 930, 932, 933, 940, 
+   |---a-->
+       |---ins-->$:708, 
+       |---nce-->$:831, 
+   |---e-->
+       |---d-->$:104, 
+       |---r-->$:510, 606, 723, 730, 
+           |---s-->$:228, 
+   |---h-->$:109, 202, 507, 614, 922, 931, 935, 
+       |---at-->$:821, 826, 940, 
+       |---e-->$:101, 105, 108, 201, 212, 215, 218, 224, 227, 401, 601, 618, 624, 710, 713, 718, 725, 800, 901, 904, 912, 915, 917, 927, 934, 938, 
+           |---ir-->$:413, 612, 
+           |---m-->$:411, 506, 622, 631, 
+           |---re-->$:304, 308, 512, 608, 
+               |---in-->$:942, 
+       |---i-->
+           |---ef-->$:910, 
+           |---rst-->$:616, 
+       |---ou-->
+           |---sand-->$:520, 
+           |---t-->$:204, 
+   |---o-->$:412, 816, 830, 
+       |---ngue-->$:613, 
+   |---s-->$:928, 
+---u-->
+   |---dah-->$:407, 
+   |---e-->$:613, 
+   |---ffering-->$:815, 
+   |---ghter-->$:510, 
+   |---ld-->$:823, 828, 
+   |---n-->
+       |---dred-->$:519, 
+       |---t-->$:811, 
+           |---ains-->$:708, 
+   |---p-->$:946, 
+       |---on-->$:211, 223, 
+   |---rned-->$:945, 
+   |---s-->$:817, 
+       |---and-->$:520, 
+   |---t-->$:204, 813, 825, 900, 
+---v-->
+   |---alleys-->$:714, 
+   |---e-->$:518, 
+       |---d-->$:222, 
+       |---n-->$:106, 
+           |---s-->$:918, 
+           |---t-->$:932, 
+       |---r-->
+           |---ed-->$:410, 
+           |---s-->$:703, 
+   |---oid-->$:207, 
+---w-->$:505, 
+   |---a-->
+       |---rd-->$:818, 
+       |---s-->$:203, 210, 309, 
+       |---ter-->$:606, 723, 730, 
+           |---s-->$:228, 
+       |---y-->$:921, 
+   |---h-->
+       |---en-->$:600, 
+       |---ich-->$:916, 
+   |---i-->
+       |---l-->
+           |---derness-->$:719, 
+           |---l-->$:620, 628, 701, 716, 906, 
+               |---ing-->$:820, 
+       |---th-->$:507, 922, 931, 
+           |---out-->$:204, 
+   |---n-->$:514, 
+   |---orks-->$:939, 
+---y-->$:604, 726, 822, 902, 921, 
+   |---s-->$:714, 
+lord: pWord=lord	pPosFrom=0	->	lord
+edge label=a
+edge label=a	vMatchingLength=1
+pWord=lord	pPosFrom=1	->	ord
+edge label=$
+edge label=$	vMatchingLength=0
+edge label=bijah
+edge label=bijah	vMatchingLength=0
+edge label=c
+edge label=c	vMatchingLength=0
+edge label=el
+edge label=el	vMatchingLength=0
+edge label=h
+edge label=h	vMatchingLength=0
+edge label=i
+edge label=i	vMatchingLength=0
+edge label=ke
+edge label=ke	vMatchingLength=0
+edge label=l
+edge label=l	vMatchingLength=0
+edge label=n
+edge label=n	vMatchingLength=0
+edge label=r
+edge label=r	vMatchingLength=0
+edge label=s
+edge label=s	vMatchingLength=0
+edge label=t
+edge label=t	vMatchingLength=0
+edge label=ughter
+edge label=ughter	vMatchingLength=0
+edge label=ven
+edge label=ven	vMatchingLength=0
+edge label=way
+edge label=way	vMatchingLength=0
+edge label=y
+edge label=y	vMatchingLength=0
+edge label=b
+edge label=b	vMatchingLength=1
+pWord=lord	pPosFrom=1	->	ord
+edge label=e
+edge label=e	vMatchingLength=0
+edge label=ijah
+edge label=ijah	vMatchingLength=0
+edge label=u
+edge label=u	vMatchingLength=0
+edge label=c
+edge label=c	vMatchingLength=1
+pWord=lord	pPosFrom=1	->	ord
+edge label=e
+edge label=e	vMatchingLength=0
+edge label=h
+edge label=h	vMatchingLength=0
+edge label=k
+edge label=k	vMatchingLength=0
+edge label=o
+edge label=o	vMatchingLength=1
+pWord=lord	pPosFrom=2	->	rd
+edge label=me
+edge label=me	vMatchingLength=0
+edge label=ncerning
+edge label=ncerning	vMatchingLength=0
+edge label=unt
+edge label=unt	vMatchingLength=0
+edge label=reated
+edge label=reated	vMatchingLength=0
+edge label=d
+edge label=d	vMatchingLength=1
+pWord=lord	pPosFrom=1	->	ord
+edge label=$
+edge label=$	vMatchingLength=0
+edge label=a
+edge label=a	vMatchingLength=0
+edge label=e
+edge label=e	vMatchingLength=0
+edge label=own
+edge label=own	vMatchingLength=1
+edge label=r
+edge label=r	vMatchingLength=0
+edge label=st
+edge label=st	vMatchingLength=0
+edge label=y
+edge label=y	vMatchingLength=0
+edge label=e
+edge label=e	vMatchingLength=1
+pWord=lord	pPosFrom=1	->	ord
+edge label=$
+edge label=$	vMatchingLength=0
+edge label=a
+edge label=a	vMatchingLength=0
+edge label=d
+edge label=d	vMatchingLength=0
+edge label=e
+edge label=e	vMatchingLength=0
+edge label=f
+edge label=f	vMatchingLength=0
+edge label=ginning
+edge label=ginning	vMatchingLength=0
+edge label=i
+edge label=i	vMatchingLength=0
+edge label=k
+edge label=k	vMatchingLength=0
+edge label=l
+edge label=l	vMatchingLength=0
+edge label=m
+edge label=m	vMatchingLength=0
+edge label=n
+edge label=n	vMatchingLength=0
+edge label=ople
+edge label=ople	vMatchingLength=1
+edge label=p
+edge label=p	vMatchingLength=0
+edge label=r
+edge label=r	vMatchingLength=0
+edge label=s
+edge label=s	vMatchingLength=0
+edge label=t
+edge label=t	vMatchingLength=0
+edge label=w
+edge label=w	vMatchingLength=0
+edge label=ys
+edge label=ys	vMatchingLength=0
+edge label=f
+edge label=f	vMatchingLength=1
+pWord=lord	pPosFrom=1	->	ord
+edge label=$
+edge label=$	vMatchingLength=0
+edge label=a
+edge label=a	vMatchingLength=0
+edge label=e
+edge label=e	vMatchingLength=0
+edge label=fering
+edge label=fering	vMatchingLength=0
+edge label=ive
+edge label=ive	vMatchingLength=0
+edge label=led
+edge label=led	vMatchingLength=0
+edge label=o
+edge label=o	vMatchingLength=1
+pWord=lord	pPosFrom=2	->	rd
+edge label=r
+edge label=r	vMatchingLength=1
+pWord=lord	pPosFrom=3	->	d
+edge label=$
+edge label=$	vMatchingLength=0
+edge label=e
+edge label=e	vMatchingLength=0
+edge label=m
+edge label=m	vMatchingLength=0
+edge label=sake
+edge label=sake	vMatchingLength=0
+edge label=untains
+edge label=untains	vMatchingLength=0
+edge label=g
+edge label=g	vMatchingLength=1
+pWord=lord	pPosFrom=1	->	ord
+edge label=$
+edge label=$	vMatchingLength=0
+edge label=h
+edge label=h	vMatchingLength=0
+edge label=inning
+edge label=inning	vMatchingLength=0
+edge label=od
+edge label=od	vMatchingLength=1
+edge label=reat
+edge label=reat	vMatchingLength=0
+edge label=s
+edge label=s	vMatchingLength=0
+edge label=ue
+edge label=ue	vMatchingLength=0
+edge label=h
+edge label=h	vMatchingLength=1
+pWord=lord	pPosFrom=1	->	ord
+edge label=$
+edge label=$	vMatchingLength=0
+edge label=a
+edge label=a	vMatchingLength=0
+edge label=e
+edge label=e	vMatchingLength=0
+edge label=i
+edge label=i	vMatchingLength=0
+edge label=o
+edge label=o	vMatchingLength=1
+pWord=lord	pPosFrom=2	->	rd
+edge label=sen
+edge label=sen	vMatchingLength=0
+edge label=u
+edge label=u	vMatchingLength=0
+edge label=t
+edge label=t	vMatchingLength=0
+edge label=undred
+edge label=undred	vMatchingLength=0
+edge label=i
+edge label=i	vMatchingLength=1
+pWord=lord	pPosFrom=1	->	ord
+edge label=$
+edge label=$	vMatchingLength=0
+edge label=ch
+edge label=ch	vMatchingLength=0
+edge label=d
+edge label=d	vMatchingLength=0
+edge label=ef
+edge label=ef	vMatchingLength=0
+edge label=gh
+edge label=gh	vMatchingLength=0
+edge label=jah
+edge label=jah	vMatchingLength=0
+edge label=l
+edge label=l	vMatchingLength=0
+edge label=n
+edge label=n	vMatchingLength=0
+edge label=r
+edge label=r	vMatchingLength=0
+edge label=s
+edge label=s	vMatchingLength=0
+edge label=t
+edge label=t	vMatchingLength=0
+edge label=ve
+edge label=ve	vMatchingLength=0
+edge label=j
+edge label=j	vMatchingLength=1
+pWord=lord	pPosFrom=1	->	ord
+edge label=ah
+edge label=ah	vMatchingLength=0
+edge label=udah
+edge label=udah	vMatchingLength=0
+edge label=k
+edge label=k	vMatchingLength=1
+pWord=lord	pPosFrom=1	->	ord
+edge label=$
+edge label=$	vMatchingLength=0
+edge label=e
+edge label=e	vMatchingLength=0
+edge label=ness
+edge label=ness	vMatchingLength=0
+edge label=s
+edge label=s	vMatchingLength=0
+edge label=l
+edge label=l	vMatchingLength=1
+pWord=lord	pPosFrom=1	->	ord
+edge label=$
+edge label=$	vMatchingLength=1
+pWord=lord	pPosFrom=2	->	rd
+edge label=a
+edge label=a	vMatchingLength=1
+pWord=lord	pPosFrom=2	->	rd
+edge label=c
+edge label=c	vMatchingLength=0
+edge label=in
+edge label=in	vMatchingLength=0
+edge label=nd
+edge label=nd	vMatchingLength=0
+edge label=ughter
+edge label=ughter	vMatchingLength=0
+edge label=d
+edge label=d	vMatchingLength=1
+pWord=lord	pPosFrom=2	->	rd
+edge label=$
+edge label=$	vMatchingLength=0
+edge label=erness
+edge label=erness	vMatchingLength=0
+edge label=ren
+edge label=ren	vMatchingLength=1
+edge label=e
+edge label=e	vMatchingLength=1
+pWord=lord	pPosFrom=2	->	rd
+edge label=$
+edge label=$	vMatchingLength=0
+edge label=d
+edge label=d	vMatchingLength=0
+edge label=ments
+edge label=ments	vMatchingLength=0
+edge label=t
+edge label=t	vMatchingLength=0
+edge label=w
+edge label=w	vMatchingLength=0
+edge label=ys
+edge label=ys	vMatchingLength=0
+edge label=i
+edge label=i	vMatchingLength=1
+pWord=lord	pPosFrom=2	->	rd
+edge label=ght
+edge label=ght	vMatchingLength=0
+edge label=ng
+edge label=ng	vMatchingLength=0
+edge label=vered
+edge label=vered	vMatchingLength=0
+edge label=l
+edge label=l	vMatchingLength=1
+pWord=lord	pPosFrom=2	->	rd
+edge label=$
+edge label=$	vMatchingLength=0
+edge label=eys
+edge label=eys	vMatchingLength=0
+edge label=ing
+edge label=ing	vMatchingLength=0
+edge label=o
+edge label=o	vMatchingLength=1
+pWord=lord	pPosFrom=2	->	rd
+edge label=ngsuffering
+edge label=ngsuffering	vMatchingLength=1
+edge label=rd
+edge label=rd	vMatchingLength=2
+edge label=so
+edge label=so	vMatchingLength=1
+edge label=t
+edge label=t	vMatchingLength=1
+pWord=lord	pPosFrom=2	->	rd
+edge label=$
+edge label=$	vMatchingLength=0
+edge label=m
+edge label=m	vMatchingLength=1
+pWord=lord	pPosFrom=1	->	ord
+edge label=$
+edge label=$	vMatchingLength=0
+edge label=ake
+edge label=ake	vMatchingLength=0
+edge label=e
+edge label=e	vMatchingLength=0
+edge label=i
+edge label=i	vMatchingLength=0
+edge label=oved
+edge label=oved	vMatchingLength=1
+edge label=n
+edge label=n	vMatchingLength=1
+pWord=lord	pPosFrom=1	->	ord
+edge label=$
+edge label=$	vMatchingLength=0
+edge label=ce
+edge label=ce	vMatchingLength=0
+edge label=d
+edge label=d	vMatchingLength=0
+edge label=e
+edge label=e	vMatchingLength=0
+edge label=g
+edge label=g	vMatchingLength=0
+edge label=i
+edge label=i	vMatchingLength=0
+edge label=ning
+edge label=ning	vMatchingLength=0
+edge label=o
+edge label=o	vMatchingLength=1
+pWord=lord	pPosFrom=2	->	rd
+edge label=ise
+edge label=ise	vMatchingLength=0
+edge label=ne
+edge label=ne	vMatchingLength=0
+edge label=t
+edge label=t	vMatchingLength=0
+edge label=s
+edge label=s	vMatchingLength=0
+edge label=t
+edge label=t	vMatchingLength=0
+edge label=y
+edge label=y	vMatchingLength=0
+edge label=o
+edge label=o	vMatchingLength=1
+pWord=lord	pPosFrom=1	->	ord
+edge label=$
+edge label=$	vMatchingLength=0
+edge label=d
+edge label=d	vMatchingLength=0
+edge label=f
+edge label=f	vMatchingLength=0
+edge label=i
+edge label=i	vMatchingLength=0
+edge label=l
+edge label=l	vMatchingLength=0
+edge label=m
+edge label=m	vMatchingLength=0
+edge label=n
+edge label=n	vMatchingLength=0
+edge label=o
+edge label=o	vMatchingLength=1
+pWord=lord	pPosFrom=2	->	rd
+edge label=l
+edge label=l	vMatchingLength=0
+edge label=r
+edge label=r	vMatchingLength=1
+pWord=lord	pPosFrom=3	->	d
+edge label=$
+edge label=$	vMatchingLength=0
+edge label=p
+edge label=p	vMatchingLength=0
+edge label=r
+edge label=r	vMatchingLength=0
+edge label=sen
+edge label=sen	vMatchingLength=0
+edge label=t
+edge label=t	vMatchingLength=0
+edge label=u
+edge label=u	vMatchingLength=0
+edge label=ved
+edge label=ved	vMatchingLength=0
+edge label=wn
+edge label=wn	vMatchingLength=0
+edge label=p
+edge label=p	vMatchingLength=1
+pWord=lord	pPosFrom=1	->	ord
+edge label=$
+edge label=$	vMatchingLength=0
+edge label=ass
+edge label=ass	vMatchingLength=0
+edge label=e
+edge label=e	vMatchingLength=0
+edge label=irit
+edge label=irit	vMatchingLength=0
+edge label=l
+edge label=l	vMatchingLength=0
+edge label=o
+edge label=o	vMatchingLength=1
+pWord=lord	pPosFrom=2	->	rd
+edge label=n
+edge label=n	vMatchingLength=0
+edge label=o
+edge label=o	vMatchingLength=0
+edge label=r
+edge label=r	vMatchingLength=0
+edge label=r
+edge label=r	vMatchingLength=1
+pWord=lord	pPosFrom=1	->	ord
+edge label=$
+edge label=$	vMatchingLength=0
+edge label=ael
+edge label=ael	vMatchingLength=0
+edge label=d
+edge label=d	vMatchingLength=0
+edge label=e
+edge label=e	vMatchingLength=0
+edge label=i
+edge label=i	vMatchingLength=0
+edge label=k
+edge label=k	vMatchingLength=0
+edge label=m
+edge label=m	vMatchingLength=0
+edge label=n
+edge label=n	vMatchingLength=0
+edge label=omise
+edge label=omise	vMatchingLength=1
+edge label=s
+edge label=s	vMatchingLength=0
+edge label=th
+edge label=th	vMatchingLength=0
+edge label=vent
+edge label=vent	vMatchingLength=0
+edge label=y
+edge label=y	vMatchingLength=0
+edge label=s
+edge label=s	vMatchingLength=1
+pWord=lord	pPosFrom=1	->	ord
+edge label=$
+edge label=$	vMatchingLength=0
+edge label=a
+edge label=a	vMatchingLength=0
+edge label=e
+edge label=e	vMatchingLength=0
+edge label=h
+edge label=h	vMatchingLength=0
+edge label=l
+edge label=l	vMatchingLength=0
+edge label=o
+edge label=o	vMatchingLength=1
+pWord=lord	pPosFrom=2	->	rd
+edge label=$
+edge label=$	vMatchingLength=0
+edge label=me
+edge label=me	vMatchingLength=0
+edge label=p
+edge label=p	vMatchingLength=0
+edge label=rael
+edge label=rael	vMatchingLength=0
+edge label=s
+edge label=s	vMatchingLength=0
+edge label=t
+edge label=t	vMatchingLength=0
+edge label=uffering
+edge label=uffering	vMatchingLength=0
+edge label=t
+edge label=t	vMatchingLength=1
+pWord=lord	pPosFrom=1	->	ord
+edge label=$
+edge label=$	vMatchingLength=0
+edge label=a
+edge label=a	vMatchingLength=0
+edge label=e
+edge label=e	vMatchingLength=0
+edge label=h
+edge label=h	vMatchingLength=0
+edge label=o
+edge label=o	vMatchingLength=1
+pWord=lord	pPosFrom=2	->	rd
+edge label=$
+edge label=$	vMatchingLength=0
+edge label=ngue
+edge label=ngue	vMatchingLength=0
+edge label=s
+edge label=s	vMatchingLength=0
+edge label=u
+edge label=u	vMatchingLength=1
+pWord=lord	pPosFrom=1	->	ord
+edge label=dah
+edge label=dah	vMatchingLength=0
+edge label=e
+edge label=e	vMatchingLength=0
+edge label=ffering
+edge label=ffering	vMatchingLength=0
+edge label=ghter
+edge label=ghter	vMatchingLength=0
+edge label=ld
+edge label=ld	vMatchingLength=0
+edge label=n
+edge label=n	vMatchingLength=0
+edge label=p
+edge label=p	vMatchingLength=0
+edge label=rned
+edge label=rned	vMatchingLength=0
+edge label=s
+edge label=s	vMatchingLength=0
+edge label=t
+edge label=t	vMatchingLength=0
+edge label=v
+edge label=v	vMatchingLength=1
+pWord=lord	pPosFrom=1	->	ord
+edge label=alleys
+edge label=alleys	vMatchingLength=0
+edge label=e
+edge label=e	vMatchingLength=0
+edge label=oid
+edge label=oid	vMatchingLength=1
+edge label=w
+edge label=w	vMatchingLength=1
+pWord=lord	pPosFrom=1	->	ord
+edge label=$
+edge label=$	vMatchingLength=0
+edge label=a
+edge label=a	vMatchingLength=0
+edge label=h
+edge label=h	vMatchingLength=0
+edge label=i
+edge label=i	vMatchingLength=0
+edge label=n
+edge label=n	vMatchingLength=0
+edge label=orks
+edge label=orks	vMatchingLength=2
+edge label=y
+edge label=y	vMatchingLength=1
+pWord=lord	pPosFrom=1	->	ord
+edge label=$
+edge label=$	vMatchingLength=0
+edge label=s
+edge label=s	vMatchingLength=0
+found: 
+not found
